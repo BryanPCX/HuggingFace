@@ -1,1 +1,1 @@
-# JaguarCyborg
+# HuggingFace tutorial
